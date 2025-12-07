@@ -1,12 +1,12 @@
 window.scriptData = [
   {
-    id: "gag_script",
-    title: "MZZHUB [GAG]",
-    url: "https://raw.githubusercontent.com/mizu-dump/DumpScript/refs/heads/main/loadser.lua",
-    description: "Script Spawner, Auto For Grow A Garden",
-    category: "Spawner",
-    tags: ["helper", "gag", "roblox", "spawner"],
-    image: "https://tr.rbxcdn.com/180DAY-91f8ec73480a974786806c66d92dd30e/768/432/Image/Webp/noFilter"
+    id: "fishit_mytrix",
+    title: "MYTXHUB [FSH-IT]",
+    url: "https://raw.githubusercontent.com/mizu-dump/DumpScript/refs/heads/main/1bb31e4bf8ca2972.lua.txt",
+    description: "Script Instant, Auto And More For Fish It",
+    category: "HELPER",
+    tags: ["helper", "fish-it", "roblox", "auto"],
+    image: "https://tr.rbxcdn.com/180DAY-e10555edcf3118da0948258664abba2e/768/432/Image/Webp/noFilter"
   },
 
   {
