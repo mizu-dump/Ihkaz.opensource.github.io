@@ -16,7 +16,7 @@ window.scriptData = [
     description: "Script Instant Steal, And Desync For Steal A Brainrot",
     category: "HELPER",
     tags: ["overpowered", "sab", "roblox", "auto"],
-    image: "https://tr.rbxcdn.com/180DAY-e10555edcf3118da0948258664abba2e/768/432/Image/Webp/noFilter"
+    image: "https://tr.rbxcdn.com/180DAY-c0c1c4d4ecac6766c2c7f25f3e5dde66/768/432/Image/Webp/noFilter"
   },
 
   {
