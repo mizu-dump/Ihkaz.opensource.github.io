@@ -10,6 +10,16 @@ window.scriptData = [
   },
 
   {
+    id: "ins_steal-desync",
+    title: "Inst Steal + Desync [SAB]",
+    url: "https://raw.githubusercontent.com/mizu-dump/DumpScript/refs/heads/main/qzwbhuyyzzhqdfyfixonkaoi.lua.txt",
+    description: "Script Instant Steal, And Desync For Steal A Brainrot",
+    category: "HELPER",
+    tags: ["overpowered", "sab", "roblox", "auto"],
+    image: "https://tr.rbxcdn.com/180DAY-e10555edcf3118da0948258664abba2e/768/432/Image/Webp/noFilter"
+  },
+
+  {
     id: "pvb_lgwxw",
     title: "LGWXW [PVB]",
     url: "https://raw.githubusercontent.com/mizu-dump/DumpScript/refs/heads/main/Legitxwx.lua%20(1).txt",
