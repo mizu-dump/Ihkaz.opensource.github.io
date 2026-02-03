@@ -416,7 +416,7 @@ document.addEventListener('DOMContentLoaded', () => {
     handleImageErrors();
     
     setTimeout(() => {
-        showNotification('Welcome to Script Vault! 🚀');
+        showNotification('I Smell Skidders ❔');
     }, 1000);
     
     console.log('Script Vault initialized successfully');
